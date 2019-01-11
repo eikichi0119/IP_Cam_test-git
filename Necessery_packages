@@ -1,0 +1,8 @@
+For rtsp.py
+ffmpeg
+opencv
+
+For main.py
+zeroconf
+requests
+BeautifulSoup4
